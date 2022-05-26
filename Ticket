@@ -1,0 +1,14 @@
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<section id="overlay"><form>
+<h1>IT Ticket Form</h1>
+<section class="name"><label for="name">Name:</label> <input id="name" name="name" type="text" /></section>
+<hr />
+<section class="email"><label for="amount">Email</label> <input id="emailt" name="email" type="text" /></section>
+<hr />
+<section class="for"><label for="you"> Is This Ticket For You?</label> <input id="for" name="forYes" type="checkbox" />Yes<input id="for" name="forNo" type="checkbox" />No</section>
+<section class="type"><label for="type">What Type of Issue is this?</label> <br /><select id="type" name="type">
+<option value="hardware">Hardware</option>
+<option value="software">Software</option>
+</select></section>
+</form></section>
